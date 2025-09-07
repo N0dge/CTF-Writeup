@@ -1,4 +1,4 @@
-# Unsafe – NNS CTF 2025 (PWN)
+# JWarmup – NNS CTF 2025 (PWN)
 
 ## Challenge description
 > *"My application was written in a modern- and memory safe language known as Java. It contains my secret, can you read it?"*  
